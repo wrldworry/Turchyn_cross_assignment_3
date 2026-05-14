@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Turchyn Cross Assignment 3",
+    "slug": "turchyn-cross-assignment-3",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
