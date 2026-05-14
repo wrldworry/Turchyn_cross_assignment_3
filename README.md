@@ -1,6 +1,6 @@
 # Turchyn_cross_assignment_3
 https://github.com/wrldworry/Turchyn_cross_assignment_3
-
+1) задовольнитися першою отриманою оцінкою (звісно ж, якщо вона вища за прохідний бал)
 React Native/Expo project for homework 3. The project recreates the main repeated UI elements from the Figma design `Turchyn_cross_assignment_3`: search bar, category list, event cards, event list rows, avatar, settings rows, auth inputs, app header, bottom navigation and buttons.
 
 ## Implemented components
